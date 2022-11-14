@@ -1,0 +1,54 @@
+.list-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.time-logo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-right: 10px;
+}
+.domain-logo {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.time {
+  padding-right: 40px;
+}
+.title-url {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-right: 20px;
+}
+.logo {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.logo-img {
+  width: 20px;
+  height: 20px;
+}
+.delete {
+  border: 0px;
+  background-color: #ffffff;
+}
+.delete-button {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.title {
+  padding-right: 10px;
+  font-weight: bold;
+}
+.new-div {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
